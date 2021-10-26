@@ -3,5 +3,5 @@ aqil-resolusi:
 - membuat potofolio
 - membuat akun github
 - membuat akun google scholar
-- belajar python lebih expert dengan tema Image Processing
 - membuat web development
+- bisa lulus S2 tepat waktu
